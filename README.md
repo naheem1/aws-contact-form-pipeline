@@ -1,7 +1,7 @@
 # AWS Serverless Contact Form Pipeline
 
 ## The Problem
-A local plumber in Birmingham had a website but no contact form.
+A local electrician in Birmingham had a website but no contact form.
 Customers had to copy his email address manually — most didn't bother and called a competitor instead.
 
 ## The Solution
